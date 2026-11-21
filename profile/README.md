@@ -8,10 +8,10 @@
 This organization contains repositories to build AOSP ROMs for 8849 TANK 3 / 8849 TANK 3 Pro (TANK3).
 
 ### Required device specific repositories
-* [**Device Tree (TANK3)**](https://github.com/oblue-mediatek-devs/android_device_oblue_TANK3.git) (`android_device_oblue_TANK3`)
-* [**Firmware Tree (TANK3-firmware)**](https://github.com/oblue-mediatek-devs/android_device_oblue_TANK3-firmware.git) (`android_device_oblue_TANK3-firmware`)
-* [**Kernel Tree (TANK3-kernel)**](https://github.com/oblue-mediatek-devs/android_device_oblue_TANK3-kernel.git) (`android_device_oblue_TANK3-kernel`)
-* [**Vendor Tree (TANK3)**](https://github.com/oblue-mediatek-devs/android_vendor_oblue_TANK3.git) (`android_vendor_oblue_TANK3`)
+* [**Device Tree (TANK3)**](https://github.com/oblue-mediatek-dev/android_device_oblue_TANK3.git) (`android_device_oblue_TANK3`)
+* [**Firmware Tree (TANK3-firmware)**](https://github.com/oblue-mediatek-dev/android_device_oblue_TANK3-firmware.git) (`android_device_oblue_TANK3-firmware`)
+* [**Kernel Tree (TANK3-kernel)**](https://github.com/oblue-mediatek-dev/android_device_oblue_TANK3-kernel.git) (`android_device_oblue_TANK3-kernel`)
+* [**Vendor Tree (TANK3)**](https://github.com/oblue-mediatek-dev/android_vendor_oblue_TANK3.git) (`android_vendor_oblue_TANK3`)
 
 ### Other required repositories
 * [**Mediatek Sepolicy**](https://github.com/LineageOS/android_device_mediatek_sepolicy_vndr.git) (`android_device_mediatek_sepolicy_vndr`)
