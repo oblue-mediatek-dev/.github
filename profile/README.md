@@ -2,14 +2,16 @@
 ### OBLUE is the creator and developer of Unihertz and 8849
 This organization contains repositories to build AOSP ROMs for 8849 TANK 3 / 8849 TANK 3 Pro (TANK3).
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <img style="width:320px;height:320px;object-fit:cover;" src="https://cdn-files.kimovil.com/default/0009/42/thumb_841135_default_big.jpg"><br>
+<table border="0" style="width:100%;border-collapse:collapse;">
+  <tr style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;">
+    <td align="center" style="flex:1;min-width:280px;box-sizing:border-box;padding:8px;">
+      <img style="width:100%;max-width:320px;height:auto;object-fit:cover;" src="https://cdn-files.kimovil.com/default/0009/42/thumb_841135_default_big.jpg">
+      <br>
       <span style="font-size:14px;color:#888;">8849 TANK 3</span>
     </td>
-    <td align="center">
-      <img style="width:320px;height:320px;object-fit:cover;" src="https://cdn.shopify.com/s/files/1/0933/0340/6881/files/8849-tank3-pro-projector-phone02-1.png"><br>
+    <td align="center" style="flex:1;min-width:280px;box-sizing:border-box;padding:8px;">
+      <img style="width:100%;max-width:320px;height:auto;object-fit:cover;" src="https://cdn.shopify.com/s/files/1/0933/0340/6881/files/8849-tank3-pro-projector-phone02-1.png">
+      <br>
       <span style="font-size:14px;color:#888;">8849 TANK3 Pro</span>
     </td>
   </tr>
